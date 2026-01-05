@@ -56,10 +56,18 @@ The application dynamically updates the UI using JavaScript and handles invalid 
 ---
 
 ## 📂 Project Structure
-    Weather-Dashboard/
+     Weather-Dashboard/
     │
-    ├── index.html # Main HTML file
-    ├── README.md # Project documentation
+    ├── index.html
+    │
+    ├── images/
+    │   └── title.png
+    │
+    ├── screenshots/
+    │   └── screenshot.png
+    │
+    └── README.md
+
 
 ---
 
@@ -93,9 +101,9 @@ The application dynamically updates the UI using JavaScript and handles invalid 
 - Error messages are shown for invalid cities
 
 ---
-📸 Screenshots
+## 📸 Screenshots
 
-Add screenshots here if uploading to GitHub
+<img width="1919" height="996" alt="Screenshot 2026-01-05 182751" src="https://github.com/user-attachments/assets/2986cc70-50b4-4ea2-92d3-55a857dea8c5" />
 
 ---
 
